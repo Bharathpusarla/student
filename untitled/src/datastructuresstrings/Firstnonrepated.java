@@ -2,7 +2,7 @@ package datastructuresstrings;
 
 public class Firstnonrepated {
     public static void main(String[] args){
-      Character result = Firstnonrepatedchar("baba");
+      Character result = Firstnonrepatedchar("cbadba");
       System.out.println(result);
 
     }
