@@ -13,7 +13,7 @@ alphabetsinString {
                 str1.append(i);
             }
         }
-        String result = str1.toString();
-        return result;
+//        String result = str1.toString();
+        return new String(str1);
     }
 }

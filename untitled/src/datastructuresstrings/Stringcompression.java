@@ -2,7 +2,7 @@ package datastructuresstrings;
 
 public class Stringcompression {
     public static void main(String[] args) {
-        System.out.println(stringcompression("bharath"));
+        System.out.println(stringcompression("bbvvcfgggllll"));
     }
     public static String stringcompression(String str){
         String result="";
