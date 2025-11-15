@@ -13,7 +13,7 @@ public class Duplicates {
         for (Character c : input.toCharArray()) {
             chars.put(c, chars.getOrDefault(c, 0) + 1);
         }
-
+//just checking
         for (Map.Entry<Character, Integer> i : chars.entrySet()) {
             if (i.getValue() > 1) {
                 //System.out.println(i.getKey() + " appears " + i.getValue() + " times");
