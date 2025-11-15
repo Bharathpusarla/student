@@ -15,6 +15,7 @@ public class Countvowels {
                 }
             }
 
+
         }
         ccount=str.length()-vcount;
         System.out.println("consonants : " + ccount);
