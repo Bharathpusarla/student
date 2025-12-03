@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ad6714d-c250-4460-b7d1-c7ea08ed0f70" name="Changes" comment=" JMP:66834" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="practicecode" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bharathpusarla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bharathpusarla/student.git&quot;,
+    &quot;accountId&quot;: &quot;a51052f2-ebba-4614-b50c-1b9d918a41ee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yxowWN3ukTowGb0TpEufd6Zn9Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagramstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Countwords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicatesInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Firstnonrepated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Highestwordlength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListofEvenorOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseEachwordinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationofStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringcompression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.alphabetsinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.average.executor&quot;: &quot;Run&quot;,
+    &quot;Application.coding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lengthoflongestsubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestsubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sort.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/practice_java/student/untitled/src&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SortArray">
+    <configuration name="Firstnonrepated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructuresstrings.Firstnonrepated" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructuresstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.SortArray" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringcompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructuresstrings.Stringcompression" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructuresstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alphabetsinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructuresstrings.alphabetsinString" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructuresstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestsubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceaug.longestsubstring" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stringcompression" />
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.longestsubstring" />
+        <item itemvalue="Application.Firstnonrepated" />
+        <item itemvalue="Application.alphabetsinString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad6714d-c250-4460-b7d1-c7ea08ed0f70" name="Changes" comment="" />
+      <created>1750785823305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750785823305</updated>
+    </task>
+    <task id="LOCAL-00001" summary="just checking">
+      <option name="closed" value="true" />
+      <created>1752168404049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752168404049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leatest">
+      <option name="closed" value="true" />
+      <created>1754975127213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754975127214</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" latest code changes">
+      <option name="closed" value="true" />
+      <created>1763196433906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763196433906</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" JMP:66834">
+      <option name="closed" value="true" />
+      <created>1763197018819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763197018819</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" JMP:66834">
+      <option name="closed" value="true" />
+      <created>1763197318033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763197318033</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just checking" />
+    <MESSAGE value="leatest" />
+    <MESSAGE value=" latest code changes" />
+    <MESSAGE value=" JMP:66834" />
+    <option name="LAST_COMMIT_MESSAGE" value=" JMP:66834" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructuresstrings/DuplicateChar.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructuresstrings/Duplicates.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
